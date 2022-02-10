@@ -7,3 +7,6 @@ Cada diretório possui um subdiretório `codigos_base` com os códigos base o de
 
 ### Aulas/Tópicos
 1. [Estastíticas Descritivas](./estatisticas_descritivas)
+
+### Extras
+1. [Limpeza de Dados](./limpeza_de_dados)
