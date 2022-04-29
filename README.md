@@ -7,7 +7,8 @@ Cada diretório possui um subdiretório `codigos_base` com os códigos base o de
 
 ### Aulas/Tópicos
 1. [Estastíticas Descritivas](./estatisticas_descritivas)
-1. [Data Distributions](./data_distributions)
+2. [Data Distributions](./data_distributions)
+3. [Simple Linear Regression](./linear_regression)
 
 ### Extras
 1. [Limpeza de Dados](./limpeza_de_dados)
