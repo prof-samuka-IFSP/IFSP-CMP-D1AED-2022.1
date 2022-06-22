@@ -9,6 +9,9 @@ Cada diretório possui um subdiretório `codigos_base` com os códigos base o de
 1. [Estastíticas Descritivas](./estatisticas_descritivas)
 2. [Data Distributions](./data_distributions)
 3. [Simple Linear Regression](./linear_regression)
+4. [Multiple Linear Regression](./linear_regression)
+5. [Logistic Regression](./logistic_regression)
+6. [Testes de Hipótese](./testes_de_hipoteses)
 
 ### Extras
 1. [Limpeza de Dados](./limpeza_de_dados)
