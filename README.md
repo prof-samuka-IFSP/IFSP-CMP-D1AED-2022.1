@@ -9,12 +9,12 @@ Each directory has a `base_codes` subdirectory with the base codes for the initi
 
 
 ### Classes/Topics
-1. [Descriptive Statistics](./estatisticas_descritivas)
+1. [Descriptive Statistics](./descriptive_statistics)
 2. [Data Distributions](./data_distributions)
 3. [Simple Linear Regression](./linear_regression)
 4. [Multiple Linear Regression](./linear_regression)
 5. [Logistic Regression](./logistic_regression)
-6. [Hypothesis Testing](./testes_de_hipoteses)
+6. [Hypothesis Testing](./hypothesis_testing)
 
 ### Extras
-1. [Data Cleaning](./limpeza_de_dados)
+1. [Data Cleaning](./data_cleaning)
