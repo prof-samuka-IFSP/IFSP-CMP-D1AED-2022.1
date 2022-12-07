@@ -1,17 +1,20 @@
 # IFSP-CMP-D1AED-2022.1
-Repositório dos códigos feitos em sala na disciplina de Análise Estatística para Ciência de Dados (1° semestre 2022) do IFSP Campinas.
+Repository with codes developed during the Statistical Analysis for Data Science classes (1st semester 2022) at IFSP Campinas.
+
+Some content may be in Brazilian Portuguese.
 
 **Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://github.com/hisamuka)
 
-Cada diretório possui um subdiretório `codigos_base` com os códigos base o desenvolvimento inicial dos tópicos/atividades. Em alguns casos, os códigos bases são arquivos com o sufixo '_codigo_base'.
+Each directory has a `base_codes` subdirectory with the base codes for the initial development of the topics/activities. In some cases, they are files with the suffix '_code_base' or '_codigos_base'.
 
-### Aulas/Tópicos
-1. [Estastíticas Descritivas](./estatisticas_descritivas)
+
+### Classes/Topics
+1. [Descriptive Statistics](./estatisticas_descritivas)
 2. [Data Distributions](./data_distributions)
 3. [Simple Linear Regression](./linear_regression)
 4. [Multiple Linear Regression](./linear_regression)
 5. [Logistic Regression](./logistic_regression)
-6. [Testes de Hipótese](./testes_de_hipoteses)
+6. [Hypothesis Testing](./testes_de_hipoteses)
 
 ### Extras
-1. [Limpeza de Dados](./limpeza_de_dados)
+1. [Data Cleaning](./limpeza_de_dados)
