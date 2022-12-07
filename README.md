@@ -1,5 +1,5 @@
 # IFSP-CMP-D1AED-2022.1
-Repository with codes developed during the Statistical Analysis for Data Science classes (1st semester 2022) at IFSP Campinas.
+Repository with codes developed during the **Statistical Analysis for Data Science** classes (1st semester 2022) at IFSP Campinas.
 
 **DISCLAIMER:** Some content may be in Brazilian Portuguese.
 
