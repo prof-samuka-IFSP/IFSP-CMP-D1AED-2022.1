@@ -1,7 +1,7 @@
 # IFSP-CMP-D1AED-2022.1
 Repository with codes developed during the Statistical Analysis for Data Science classes (1st semester 2022) at IFSP Campinas.
 
-Some content may be in Brazilian Portuguese.
+**DISCLAIMER:** Some content may be in Brazilian Portuguese.
 
 **Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://github.com/hisamuka)
 
