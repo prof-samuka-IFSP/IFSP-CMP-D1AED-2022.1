@@ -3,7 +3,7 @@ Repository with codes developed during the Statistical Analysis for Data Science
 
 **DISCLAIMER:** Some content may be in Brazilian Portuguese.
 
-**Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://github.com/hisamuka)
+**Professor:** [Samuel Martins (Samuka)](https://samucoding.com) - [@iamsamucoding](https://github.com/iamsamucoding)
 
 Each directory has a `base_codes` subdirectory with the base codes for the initial development of the topics/activities. In some cases, they are files with the suffix '_code_base' or '_codigos_base'.
 
