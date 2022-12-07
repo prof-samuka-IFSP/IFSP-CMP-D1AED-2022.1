@@ -1,5 +1,6 @@
 # Statistical Analysis for Data Science 2022.1 - IFSP Campinas
-Repository with codes developed during the **Statistical Analysis for Data Science** classes (1st semester 2022) at IFSP Campinas.
+Repository with codes developed during the **Statistical Analysis for Data Science** classes (1st semester 2022) at IFSP Campinas.<br/>
+The slides can be found on the course's Moodle page.
 
 **DISCLAIMER:** Some content may be in Brazilian Portuguese.
 
